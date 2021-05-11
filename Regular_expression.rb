@@ -84,7 +84,7 @@ puts text.split(/\n/).grep(/クープ.?バ[ゲケ]ット/)
 =end
 
 =begin
-\dと[]
+\dと[
 =end
 
 
